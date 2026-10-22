@@ -15,3 +15,4 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+/step_by_step_guide.md
